@@ -5,7 +5,6 @@ El proyecto consiste en la creación de un sonido ambiente inmersivo que transpo
 Como descargar:
 
 1º Dar al boton de descargar: esto contiene el archivo de PureData donde está generado el sonido.
-
 2ª Vas al enlace y te descargas los archivos sonoros para poder ejecutar el proyecto en pure Data.
 
 
